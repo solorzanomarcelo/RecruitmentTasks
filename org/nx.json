@@ -14,7 +14,7 @@
     ],
     "sharedGlobals": []
   },
-  "nxCloudId": "67ebf6e6a17e2408a2adc695",
+  "nxCloudId": "67ec4005e9a7c24704baccb9",
   "plugins": [
     {
       "plugin": "@nx/js/typescript",
@@ -51,7 +51,7 @@
       "options": {
         "targetName": "test"
       },
-      "exclude": ["apps/book management-e2e/**/*"]
+      "exclude": ["apps/books-e2e/**/*"]
     }
   ],
   "targetDefaults": {
